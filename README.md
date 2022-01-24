@@ -1,1 +1,6 @@
-# DSA_Practice
+## DSA_Practice
+
+### Practice Codes for Data Structures and Algorithms
+
+#### DAY - 1 :
+* Arrays, Linked lists, Stacks and Queues
