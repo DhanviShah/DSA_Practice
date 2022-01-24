@@ -59,7 +59,7 @@ int main()
     //Calling the reverseArray function to reverse the input Array
     int* revp = reverseArray(q,p);
 
-    cout << "Reversed array is : ";
+    cout <<  "Reversed array is : ";
     for(int i=0;i<q;i++)
     {
         cout << revp[i] << " ";
