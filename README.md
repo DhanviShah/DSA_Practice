@@ -6,6 +6,6 @@
 * Arrays, Linked lists, Stacks and Queues
 
 #### DAY - 2 :
-* Singly Linked Lists, Doubly Lnked Lists
+* Singly Linked Lists, Doubly Linked Lists
 * Stacks
 * Stock Span Problem
