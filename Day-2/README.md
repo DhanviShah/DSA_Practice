@@ -7,5 +7,5 @@ Practice Codes for Data Structures and Algorithms
    * Practice :
 
     1. Stock Span Problem
-    2. To check if a linked list contains a cycle
+    2. To check if a linked list is a Circular Linked List
 
