@@ -7,5 +7,5 @@ Practice Codes for Data Structures and Algorithms
     
    * Practice :
 
-    1. Maximum and Minimum element in an array
+    1. Find the maximum and minimum element in an array
     2. Basic operations on Stack using array implementation
