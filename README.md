@@ -9,3 +9,6 @@
 * Singly Linked Lists, Doubly Linked Lists
 * Stacks
 * Stock Span Problem
+
+#### DAY - 3 :
+* Hash functions, Queues(Priority Queues)
