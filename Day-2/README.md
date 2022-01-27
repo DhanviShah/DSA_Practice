@@ -8,4 +8,5 @@ Practice Codes for Data Structures and Algorithms
 
     1. Stock Span Problem
     2. To check if a linked list is a Circular Linked List
+    3. Find the middle element of the linked list
 
