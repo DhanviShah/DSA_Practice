@@ -2,10 +2,8 @@ Practice Codes for Data Structures and Algorithms
 
    * Assignments :
 
-    1. Reverse an array
-    2. Traverse the entire Linked List and print its elements
+    1. Find the minimum average waiting time of the customers to pick up their orders
     
    * Practice :
 
-    1. Maximum and Minimum element in an array
-    2. Basic operations on Stack using array implementation
+    1. 
